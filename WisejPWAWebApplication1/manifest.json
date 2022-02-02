@@ -1,0 +1,15 @@
+﻿{
+	"short_name": "SAFC",
+	"name": "SAFC Ticket Sales",
+	"icons": [
+		{
+			"src": "Offline/icon.png",
+			"type": "image/png",
+			"sizes": "128x72"
+		}
+	],
+	"start_url": ".",
+	"display": "fullscreen",
+	"theme_color": "red",
+	"prefer_related_applications": false
+}
